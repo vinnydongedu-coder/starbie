@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 11h | 3 |
+| Week 1 | Tier 1 | 13h | 3 |
 
 ## Contents
 
@@ -105,7 +105,7 @@ I decided to render this for the first time. It sure does look like a star and a
 
 ### 2026-10-11 – Got carried away trying to fix something on my computer yesterday. Started to work on the software this time. Finally got Adruino IDE to work and properly install, had to watch some videos but should
 
-**2h**
+**4h**
 
 Got carried away trying to fix something on my computer yesterday. Started to work on the software this time. Finally got Adruino IDE to work and properly install, had to watch some videos but should be working well, installing dependencies at the current moment. Its taking a while to install - I hope its actually working.
 
