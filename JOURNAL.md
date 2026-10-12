@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 21h | 3 |
+| Week 1 | Tier 1 | 20h | 3 |
 
 ## Contents
 
@@ -87,7 +87,7 @@ V3 had great improvements. Still have to figure out a few more but I think thats
 
 ### 2026-10-11 – I took a small break from last time and ran the DRC again. I decided that Ill fix the warnings with the silkscreen on F.cu later when I have time. When I removed the 19 warnings, there was only 3 erro
 
-**4h**
+**3h**
 
 I took a small break from last time and ran the DRC again. I decided that Ill fix the warnings with the silkscreen on F.cu later when I have time. When I removed the 19 warnings, there was only 3 errors, 2 that I can ignore according to the guide but 1 that I can fix.
 
