@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 14h | 3 |
+| Week 1 | Tier 1 | 16h | 3 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 
 ### 2026-10-10 – I have never coded or designed anything before. I spent the first hour trying to figure out how GitHub works what is a repo and how do I link it here or whatever. I spent the remainder of the first ho
 
-**6h**
+**8h**
 
 I have never coded or designed anything before. I spent the first hour trying to figure out how GitHub works what is a repo and how do I link it here or whatever. I spent the remainder of the first hour trying to figure out why an unicorn kept popping up every time i clicked the guide.
 
